@@ -1,0 +1,13 @@
+{
+  "author": "Naveen Renold",
+  "classifications": ["Web"],
+  "name": "Naveen WebApi Starter Template 2025",
+  "identity": "Naveen.StarterWebApi",
+  "shortName": "naveenwebapi",
+  "tags": {
+    "language": "C#",
+    "type": "project"
+  },
+  "sourceName": "DocumentProcessor",
+  "preferNameDirectory": true
+}
