@@ -4,6 +4,15 @@
     <TargetFramework>net9.0</TargetFramework>
     <Nullable>enable</Nullable>
     <ImplicitUsings>enable</ImplicitUsings>
+    <PackageId>NaveenWebApiStarter</PackageId>
+    <Title>Naveen Web Api Starter Template</Title>
+    <Authors>NaveenRenold</Authors>
+    <Product>WebApiTemplate</Product>
+    <Description>A Web Api starter template </Description>
+    <PackageProjectUrl></PackageProjectUrl>
+    <RepositoryUrl>https://github.com/naveenrenold/api-template-minapi</RepositoryUrl>
+    <RepositoryType>git</RepositoryType>
+    <PackageTags>WebAPI;Template;Query Filtering;OAuth;Minimal API</PackageTags>
   </PropertyGroup>
 
   <ItemGroup>
